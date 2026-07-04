@@ -4,7 +4,7 @@
 
 ## Public Record Review
 
-This section maps our independent investigations of the public record. Each analysis is conducted in an isolated, fresh AI session to ensure objectivity and prevent data errors. Full conversation transcripts, prompt scripts, and verified source registries are hosted on their own pages.
+This section includes independent investigations of the public record. Each analysis seeks to ensure objectivity and prevent data errors. Links are provided for full details, and information may update due to ongoing developments.
 
 *   **[Community Impact Analysis](public-record/community-impact.md):**
     This section looks at how patient discharge rules affect daily life for families and communities. It uses systems theory to trace how stable re-entry into the community keeps individuals safe and supported.
@@ -17,10 +17,10 @@ This section maps our independent investigations of the public record. Each anal
 
 ## Alternatives Analysis
 
-Based on the information generated from the public record review, our strategic options are evaluated below.
+Based on the information generated from the public record review, strategic options are evaluated below.
 
-*   **Define the Problem:** Patients discharged from psychiatric hospitalizations face severe health risks and high return rates when they leave facilities without immediate access to essential medications or structured follow-up care.
-*   **Brainstorm Alternatives:**
+*   **The Issue:** Patients discharged from psychiatric hospitalizations face severe health risks and high return rates when they leave facilities without immediate access to essential medications or structured follow-up care.
+*   **Alternatives:**
     *   *Option A (Funding):* Increase state grant funding to community health clinics to supply emergency transition packs directly to low-income patients.
     *   *Option B (Law):* Standardize the state legal code to mandate that all psychiatric facilities must supply a 15-day medication supply and arrange immediate care coordination upon discharge.
     *   *Option C (Public Campaign):* Build a public awareness campaign to pressure regional hospitals to voluntarily change their discharge rules.
