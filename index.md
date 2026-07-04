@@ -1,6 +1,6 @@
 ---
 ---
-**Why You're Here:** To discover, develop, and advance nonpartisan policy solutions.
+**Why You're Here:** To discover, develop, and advance a nonpartisan policy solution.
 
 ## Public Record Review
 
