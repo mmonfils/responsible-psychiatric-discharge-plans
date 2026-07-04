@@ -1,4 +1,4 @@
-# Responsible Psychiatric Discharge Requirement
+# Responsible Psychiatric Discharge Requirements
 
 This repository contains a toolkit designed to discover, develop, and advance a policy solution.
 
