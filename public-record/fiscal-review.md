@@ -3,7 +3,7 @@
 # Public Record Review: Fiscal and Economic Cost Review
 
 ## Summary of Findings
-*   **Public Resource Allocation:** The official state fiscal note projects a direct cost of $21,600 in fiscal year 2026 and $43,200 in fiscal year 2027 to supply psychotropic medications upon discharge from state institutions. These funds are drawn from state health department appropriations to cover prescription costs for individuals without other coverage.
+*   **Public Resource Allocation:** The official state fiscal note projects a direct cost of up to $572,000 to supply 30 days of psychotropic medications upon discharge from state institutions. These funds are drawn from state health department appropriations to cover prescription costs for individuals without other coverage.
 *   **Friction Costs:** While the administrative costs to the state are low, there is a known documentation conflict in the public record. The Legislative Services Agency fiscal note calculates expenses based on a 30-day medication supply, but the actual legally binding text of House File 385 only mandates a 15-day medication supply. This means the actual fiscal impact on public funds may be significantly lower than the state's official estimate.
 
 ---
