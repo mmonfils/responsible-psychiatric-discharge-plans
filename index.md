@@ -7,7 +7,7 @@
 This section maps our independent investigations of the public record. Each analysis is conducted in an isolated, fresh AI session to ensure objectivity and prevent data errors. Full conversation transcripts, prompt scripts, and verified source registries are hosted on their own pages.
 
 *   **[Community Impact Analysis](public-record/community-impact.md):**
-    The unique findings of this analysis outline how the current policy shapes daily living conditions and local economic solidarity. It applies systems theory to track social determinants while ensuring all conclusions match verified regional records.
+    By requiring state facilities to hand people off directly to regional care networks with a 15-day medication supply and a clear crisis plan, this policy improves safety and reduces the coordination burden on local families. It also strengthens community economic stability by using public regional funds to cover expensive initial drug costs, preventing vulnerable households from falling into sudden financial crisis.
 *   **[Power Structure and Statutory Mapping](public-record/power-structure.md):**
     This review maps the legal and political dimensions of the issue across different levels of government. It reveals the exact legislative committees and administrative bodies holding public decision-making authority over the policy.
 *   **[Fiscal and Economic Cost Review](public-record/fiscal-review.md):**
