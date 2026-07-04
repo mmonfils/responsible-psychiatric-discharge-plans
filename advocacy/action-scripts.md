@@ -8,19 +8,20 @@ This page provides plain-spoken, nonpartisan communication frameworks for talkin
 ---
 
 ## Community Engagement Script (Deep Canvassing Model)
-*   **The Opening:** "Hi, my name is [Your Name] and I am a resident here in the community. I am visiting with neighbors today to talk about how we can support a nonpartisan solution to [Insert Issue Here]..."
-*   **The Story Share:** [Insert space or prompt for the advocate to share a personal, real-world experience regarding the social determinants of this issue]
-*   **The Bridge:** "A lot of folks I talk to feel that our current system is stuck because [Insert Tactical Map Bottleneck]. But we have a real opportunity to change things if we contact [Insert Community Leverage Point]..."
-*   **The Action Call:** "Would you be willing to take two minutes right now to call or email [Name of Official] and ask them to support [Insert Recommended Alternative]?"
+*   **The Opening:** "Hi, my name is [Your Name] and I am a resident here in our community. I am visiting with neighbors today to talk about how we can support a nonpartisan solution to help neighbors returning home from psychiatric hospitalizations."
+*   **The Story Share:** "When individuals leave a mental health facility without immediate access to their prescribed medications, they face massive health hurdles. Many families struggle to fill prescriptions immediately, leading to unnecessary crises that could easily be avoided with basic care coordination."
+*   **The Bridge:** "A lot of people I talk to feel that our current system is stuck because House File 385 passed the House but is currently sitting waiting for action in the Iowa Senate. We have a real opportunity to change things if we contact the leaders on the Senate Health and Human Services Committee."
+*   **The Action Call:** "Would you be willing to take two minutes right now to send a quick email to the Senate Committee leadership, asking them to place House File 385 on the calendar for a vote?"
 
 ---
 
 ## Targeted Message Outlines
-*   **Message for Committee Chairs:** [Insert a clear, brief talking point focused on statutory duty and public accountability]
-*   **Message for Local Administrators:** [Insert a clear, brief talking point focused on systemic efficiency and human capital impacts]
+*   **Message for Committee Chairs:** "As a constituent, I am asking you to bring House File 385 up for a hearing in the Senate Health and Human Services Committee. This bill passed the House with immense bipartisan support because it protects vulnerable citizens by ensuring a 15-day medication supply and clear care coordination upon hospital discharge. It is a fiscally responsible step that keeps our communities safe and stable."
+*   **Message for Local Administrators:** "Please consider voicing support for the discharge standards in House File 385. Ensuring that patients leave psychiatric facilities with a 15-day medication supply and a direct referral to regional Administrative Services Organizations reduces re-admission rates and helps local care systems function smoothly."
 
 ---
 
+<!--
 ## Optimization Script: Deep Canvassing Conversation Designer
 To refresh or generate these action scripts, copy the block below, open a completely fresh AI chat, and paste it.
 
@@ -39,11 +40,10 @@ Instructions for execution:
 * Do not use em dashes or emojis in your output.
 
 Advocacy parameters:
-* Recommended Alternative: [Insert Chosen Alternative from index.md]
-* Target Leverage Points: [Insert Key Individuals from leverage-points.md]
+* Recommended Alternative: Standardize the state legal code to mandate a 15-day medication supply and immediate care coordination upon discharge (HF 385).
+* Target Leverage Points: Senate Health and Human Services Committee Leadership.
 ```
-
----
+-->
 
 ### Navigation
 * [Return to Policy Advocacy Toolkit Hub](../index.md)

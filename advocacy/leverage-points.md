@@ -3,16 +3,19 @@
 # Advocacy Brief: Community Leverage Points
 
 ## Who Has the Leverage to Unblock It?
-*   **Primary Decision-Makers:** [Insert a 2-sentence summary listing the specific public figures, board chairs, or agency directors who hold direct authority to clear the bottleneck]
-*   **Influence Pathways:** [Describe the exact legal or political channels community members can use to directly reach these individuals]
+*   **Primary Decision-Makers:** The key leaders who hold direct authority to unblock the bill are the leadership members of the Iowa Senate Health and Human Services Committee. They control the calendar and decide whether this discharge bill gets scheduled for a debate and a vote.
+*   **Influence Pathways:** Community members can use direct legislative advocacy to reach these leaders. Organized phone calls, concise emailed public comments, and scheduled constituent visits at the state capitol are the most direct ways to request that the bill be put on the active committee calendar.
 
 ---
 
-## Detailed Leverage and Power Analysis
-[Paste the complete text output from your isolated AI chat here, listing key committees, public meeting schedules, and institutional targets.]
+## Additional Details
+A focused power analysis reveals that individual local hospital executives do not have the power to stall this public policy, because it is a state-level mandate. Instead, formal authority rests completely with state politicians. 
+
+The most effective pathway for influence is targeting the Senate committee chair and vice-chair. Because this policy passed the House with overwhelming support, it carries strong democratic legitimacy. Advocates can leverage this asset by showing lawmakers that voting for this bill reduces emergency response costs in their local home districts. Pointing out the fiscal note discrepancy also removes any hesitation regarding state expenditures, proving the bill costs less than originally reported.
 
 ---
 
+<!--
 ## Optimization Script: Political Intelligence Analyst
 To refresh or generate this leverage point analysis, copy the block below, open a completely fresh AI chat, and paste it.
 
@@ -33,8 +36,7 @@ Instructions for execution:
 System bottleneck data:
 [Paste text or summaries from your Tactical Map file here]
 ```
-
----
+-->
 
 ### Navigation
 * [Return to Policy Advocacy Toolkit Hub](../index.md)

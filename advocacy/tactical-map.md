@@ -3,16 +3,19 @@
 # Advocacy Brief: Tactical Map
 
 ## Where is the System Stuck Right Now?
-*   **Operational Logjams:** [Insert a 2-sentence summary explaining the specific administrative, procedural, or legislative bottleneck preventing progress]
-*   **Systemic Friction:** [Insert a plain-spoken explanation of the procedural rules or friction costs currently stalling the issue]
+*   **Operational Logjams:** House File 385 successfully passed the Iowa House of Representatives with strong bipartisan numbers. Right now, the bill is stuck in the legislative transition phase as it moves over to the Iowa Senate for review, meaning it must clear Senate committees before becoming a binding state law.
+*   **Systemic Friction:** The main point of friction is a data mix-up between government offices. The legislative text clearly demands a 15-day medication supply, but the fiscal analysts based all their cost sheets on a 30-day supply, causing minor confusion about the bill's true financial impact.
 
 ---
 
-## Detailed System Mapping Analysis
-[Paste the complete text output from your isolated AI chat here. Ensure it clearly breaks down how the policy moving parts interact without using academic or esoteric terminology.]
+## Additional Details
+The legislative journey of House File 385 demonstrates strong early momentum, but the system remains vulnerable to procedural delays. Because the Iowa House already passed the measure, the structural bottleneck has shifted entirely out of the chamber of origin. 
+
+The inputs to the system are solid: primary legal language is finalized, and a functional fiscal review exists. The throughput is where the bottleneck occurs. The bill must be assigned to a matching committee in the Iowa Senate. If senate leaders do not schedule the bill for a committee hearing, the policy will expire at the end of the legislative session, forcing advocates to restart the entire process from scratch next year.
 
 ---
 
+<!--
 ## Optimization Script: System Friction Analyst
 To refresh or generate this tactical map, copy the block below, open a completely fresh AI chat, and paste it alongside the summaries from your Public Record Review files.
 
@@ -33,8 +36,7 @@ Instructions for execution:
 Data inputs to analyze:
 [Paste text or summaries from your Public Record Review files here]
 ```
-
----
+-->
 
 ### Navigation
 * [Return to Policy Advocacy Toolkit Hub](../index.md)

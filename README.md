@@ -1,34 +1,14 @@
-# Iowa Community Blueprints Template
+# Responsible Psychiatric Discharge Requirements
 
-This repository provides a mobile-friendly, secure framework for launching public policy advocacy toolkits. It is specifically designed for macro social work, community organizing, and nonpartisan civic tracking.
+This repository contains a toolkit designed to discover, develop, and advance a policy solution.
 
----
+This policy focuses on requiring responsible discharge plans for patients who have had a psychiatric hospitalization, tracking Iowa House File 385 (passed by the Iowa House in 2025).
 
-## Key Features
+## Purpose & Scope
+This is a working toolkit. It shows how open-source data can be used for mobile-friendly community toolkits with credibility.
 
-* **Closed-Context Data Model:** Protects against AI hallucinations and data fabrication by forcing independent analysis inside isolated environments.
-* **Mobile-Friendly Design:** Built using the responsive Cayman Jekyll theme to ensure clean text padding and easy navigation on touch screens.
-* **Professional Guardrails:** Includes systemic frameworks that focus on institutional leverage points rather than individuals to minimize legal liability.
-
----
-
-## How to Deploy Your Toolkit
-
-1.  **Fork this Repository:** Click the Fork button at the top right of this page to create your own independent copy.
-2.  **Gather Verified Records:** Use your preferred research methods to collect live, official government URLs regarding your local policy issue.
-3.  **Execute the Worksheets:** Copy the optimization scripts located at the bottom of each sub-file, paste them into fresh AI sessions with your verified URLs, and save the logs.
-4.  **Launch the Page:** Go to your repository Settings, click Pages, set the build branch to main, and save. Your site will be live on the web in minutes.
-
----
-
-## Repository Navigation Links
-
-To preview or begin editing the infrastructure of this toolkit directly inside your repository, use the relative directory links below:
-
-* [Launch Main Toolkit Hub](index.md)
-* [Review Community Impact Workspace](public-record/community-impact.md)
-* [Review Power Structure Workspace](public-record/power-structure.md)
-* [Review Fiscal and Cost Workspace](public-record/fiscal-review.md)
-
----
-Maintained by community advocates. Built for open-source civic empowerment.
+## Repository Layout
+* `_config.yml`: Core Jekyll configurations (Cayman theme).
+* `index.md`: The main public-facing hub page for the toolkit.
+* `public-record/`: Contains primary-source policy breakdowns (Community Impact, Fiscal Review, Statutory Authority).
+* `advocacy/`: Includes the mobilization assets (Tactical Map, Leverage Points, Action Scripts).
