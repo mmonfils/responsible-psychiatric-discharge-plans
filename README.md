@@ -11,4 +11,4 @@ This is a working toolkit. It shows how open-source data can be used for mobile-
 * `_config.yml`: Core Jekyll configurations (Cayman theme).
 * `index.md`: The main public-facing hub page for the toolkit.
 * `public-record/`: Contains primary-source policy breakdowns (Community Impact, Fiscal Review, Statutory Authority).
-* `advocacy/`: Includes the mobilization assets (Tactical Map, Leverage Points, Action Scripts).
+* `advocacy/`: Includes the mobilization assets (Tactical Map, Leverage Points, Action Scripts). 
