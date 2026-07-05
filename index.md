@@ -26,7 +26,7 @@ Based on the information generated from the public record review, strategic opti
     *   *Option C (Public Campaign):* Build a public awareness campaign to pressure regional hospitals to voluntarily change their discharge rules.
 *   **Apply Criteria:**
     *   *Political Feasibility:* Option B has high feasibility because the underlying legislation already won overwhelming, bipartisan support and passed the Iowa House.
-    *   *Fiscal Cost:* State financial analysts project a cost of up to $572,000 annually to supply 30 days of transition medications at state institutions, making Option B fiscally impactful.
+    *   *Fiscal Cost:* State financial analysts project an adjusted cost of up to $211,000 to $286,000 annually to supply 15 days of transition psychotropic medications at state institutions, making Option B fiscally manageable.
     *   *Equity:* Option B applies equally across the state, ensuring that geography or personal wealth does not dictate whether a person gets lifesaving transition medication.
 *   **The Outcome:** Option B is our primary recommendation. Mandating clear statutory standards ensures permanent protection and identical care baselines across the state while managing financial strain on taxpayers.
 
