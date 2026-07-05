@@ -3,16 +3,16 @@
 # Advocacy Brief: Tactical Map
 
 ## Where is the System Stuck Right Now?
-*  **Operational Logjams:** House File 385 successfully passed the Iowa House of Representatives with a unanimous 89-0 bipartisan vote. It transitioned to the Iowa Senate, where it was recommended for passage by the Senate Health and Human Services Committee and subsequently placed on the Senate's **Unfinished Business Calendar**. It requires a floor call to become binding state law.
-*  **Procedural Inertia:** The point of friction is no longer a data mix-up but rather legislative timing. Because the financial impact models have been successfully updated to match the 15-day statutory language, the primary hurdle is securing floor priority before the conclusion of the current legislative cycle.
+*  **Operational Logjams:** HF 385 successfully passed the Iowa House of Representatives with a unanimous 89-0 bipartisan vote. It transitioned to the Iowa Senate, where it was recommended for passage by the Senate HHS Committee and subsequently placed on the Senate's **Unfinished Business Calendar**. It requires a floor call to become binding state law.
+*  **Systemic Friction:** The point of friction is legislative timing. The primary hurdle is securing floor priority before the conclusion of the next legislative cycle.
 
 
 ---
 
 ## Additional Details
-The legislative journey of House File 385 demonstrates strong early momentum, but the system remains vulnerable to procedural delays. Because the Iowa House already passed the measure, the structural bottleneck has shifted entirely out of the chamber of origin. 
+The legislative journey of HF 385 demonstrates strong early momentum, but the system remains vulnerable to procedural delays. Because the Iowa House already passed the measure, the structural bottleneck has shifted entirely out of the chamber of origin. 
 
-The inputs to the system are solid: primary legal language is finalized, and a functional fiscal review exists. The throughput is where the bottleneck occurs. The bill must be assigned to a matching committee in the Iowa Senate. If senate leaders do not schedule the bill for a committee hearing, the policy will expire at the end of the legislative session, forcing advocates to restart the entire process from scratch next year.
+The inputs to the system are solid: primary legal language is finalized, and a functional fiscal review exists. The throughput is where the bottleneck occurs. The bill must be assigned to a matching committee in the Iowa Senate. If senate leaders do not schedule the bill for a committee hearing, the policy will expire at the end of the next legislative session, forcing advocates to restart the entire process from scratch the next year.
 
 ---
 
