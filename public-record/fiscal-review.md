@@ -3,7 +3,7 @@
 # Public Record Review: Fiscal and Economic Cost Review
 
 ## Summary of Findings
-*   **Public Resource Allocation:** The official Legislative Services Agency fiscal note clarifies that the total financial impact of House File 385 cannot be fully determined because the specific costs, quantities, and types of nonpsychotropic medications remain unknown. However, supplying the mandated 15-day supply of psychotropic medications to all individuals leaving MHIs would be projected to cost between $211,000 and $286,000 annually.
+*   **Public Resource Allocation:** The official Legislative Services Agency fiscal note clarifies that the total financial impact of HF 385 cannot be fully determined because the specific costs, quantities, and types of nonpsychotropic medications remain unknown. However, supplying the mandated 15-day supply of psychotropic medications to all individuals leaving MHIs would be projected to cost between $211,000 and $286,000 annually.
 *   **Friction Costs:** The structural delay in standardizing state discharge laws creates ongoing financial and administrative hurdles for local care networks. When administrative gaps leave discharged individuals without immediate access to essential prescriptions, the burden shifts onto municipal emergency services and local county infrastructures, adding unnecessary operational waste.
 
 ---
