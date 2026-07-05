@@ -3,15 +3,15 @@
 # Advocacy Brief: Community Leverage Points
 
 ## Who Has the Leverage to Unblock It?
-*   **Primary Decision-Makers:** The key leaders who hold direct authority to unblock the bill are the leadership members of the Iowa Senate Health and Human Services Committee. They control the calendar and decide whether this discharge bill gets scheduled for a debate and a vote.
+*   **Primary Decision-Makers:** The key leaders who hold direct authority to unblock the bill are the leadership members of the Iowa Senate HHS Committee. They control the calendar and decide whether this discharge bill gets scheduled for a debate and a vote.
 *   **Influence Pathways:** Community members can use direct legislative advocacy to reach these leaders. Organized phone calls, concise emailed public comments, and scheduled constituent visits at the state capitol are the most direct ways to request that the bill be put on the active committee calendar.
 
 ---
 
 ## Additional Details
-A focused power analysis reveals that individual local hospital executives do not have the power to stall this public policy, because it is a state-level mandate. Instead, formal authority rests completely with state politicians. 
+A focused analysis suggests that this public policy would not be stalled by healthcare administration, because it is a state-level mandate. Instead, formal authority rests completely with state politicians. 
 
-The most effective pathway for influence is targeting the Senate committee chair and vice-chair. Because this policy passed the House with overwhelming support, it carries strong democratic legitimacy. Advocates can leverage this asset by showing lawmakers that voting for this bill reduces emergency response costs in their local home districts. Pointing out the fiscal note discrepancy also removes any hesitation regarding state expenditures, proving the bill costs less than originally reported.
+The most effective pathway for influence is outreach to the Senate committee chair and vice-chair. Because this policy passed the House with overwhelming support, it carries strong democratic legitimacy. Advocates can leverage this by showing lawmakers that voting for this bill reduces emergency response costs in their local home districts. Pointing out the prudent estimates of the fiscal note can also address hesitations on state expenses.
 
 ---
 
