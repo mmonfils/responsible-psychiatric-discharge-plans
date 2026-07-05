@@ -7,11 +7,11 @@
 This section includes independent investigations of the public record. Each analysis seeks to ensure objectivity and prevent data errors. Links are provided for full details, and information may update due to ongoing developments.
 
 *   **[Community Impact Analysis](public-record/community-impact.md):**
-    This section looks at how patient discharge rules affect daily life for families and communities. It uses systems theory to trace how stable re-entry into the community keeps individuals safe and supported.
+    This section looks at mental health institutes (MHIs), their rules for discharging a person commited by court order, and how they affect daily life for families and communities. It uses systems theory to trace how stable re-entry into the community keeps individuals safe and supported.
 *   **[Power Structure and Statutory Mapping](public-record/power-structure.md):**
     This page tracks the law through the government system. It shows that the Iowa Legislature holds the primary legal authority over this policy, specifically moving through the House Health and Human Services Committee.
 *   **[Fiscal and Economic Cost Review](public-record/fiscal-review.md):**
-    This review breaks down the public costs of the bill. It looks at the government funds needed to supply medications to individuals leaving state mental health facilities.
+    This review breaks down the public costs of the bill. It looks at the government funds needed to supply medications to individuals leaving MHIs.
 
 ---
 
@@ -19,11 +19,11 @@ This section includes independent investigations of the public record. Each anal
 
 Based on the information generated from the public record review, strategic options are evaluated below.
 
-*   **The Issue:** Patients discharged from psychiatric hospitalizations face severe health risks and high return rates when they leave facilities without immediate access to essential medications or structured follow-up care.
+*   **The Issue:** Patients discharged from MHIs face severe health risks and high return rates when they leave facilities without immediate access to essential medications or structured follow-up care.
 *   **Alternatives:**
     *   *Option A (Funding):* Increase state grant funding to community health clinics to supply emergency transition packs directly to low-income patients.
-    *   *Option B (Law):* Standardize the state legal code to mandate that all psychiatric facilities must supply a 15-day medication supply and arrange immediate care coordination upon discharge.
-    *   *Option C (Public Campaign):* Build a public awareness campaign to pressure regional hospitals to voluntarily change their discharge rules.
+    *   *Option B (Law):* Standardize the state legal code to mandate that all MHIs must supply a 15-day medication supply and arrange immediate care coordination upon discharge.
+    *   *Option C (Public Campaign):* Build a public awareness campaign to pressure MHIs to voluntarily change their discharge rules.
 *   **Apply Criteria:**
     *   *Political Feasibility:* Option B has high feasibility because the underlying legislation already won overwhelming, bipartisan support and passed the Iowa House.
     *   *Fiscal Cost:* The Legislative Services Agency fiscal note clarifies that the exact financial impact cannot be determined because the total cost, quantity, and specific types of medications prescribed are unknown.
