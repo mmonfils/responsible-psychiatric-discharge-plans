@@ -9,7 +9,7 @@ This section includes independent investigations of the public record. Each anal
 *   **[Community Impact Analysis](public-record/community-impact.md):**
     This section looks at mental health institutes (MHIs) and Administrative Services Organizations (ASOs), their rules for discharging a person commited by court order, and how they affect daily life for families and communities. It uses systems theory to trace how stable re-entry into the community keeps individuals safe and supported.
 *   **[Power Structure and Statutory Mapping](public-record/power-structure.md):**
-    This page tracks the law through the government system. It shows that the Iowa Legislature holds the primary legal authority over this policy, specifically moving through the House Health and Human Services Committee.
+    This page tracks the law through the government system. It shows that the Iowa Legislature holds the primary legal authority over this policy, specifically moving through the House Health and Human Services (HHS) Committee.
 *   **[Fiscal and Economic Cost Review](public-record/fiscal-review.md):**
     This review breaks down the public costs of the bill. It looks at the government funds needed to supply medications to individuals leaving MHIs.
 
