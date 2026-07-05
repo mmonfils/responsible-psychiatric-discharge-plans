@@ -3,8 +3,9 @@
 # Advocacy Brief: Tactical Map
 
 ## Where is the System Stuck Right Now?
-*   **Operational Logjams:** House File 385 successfully passed the Iowa House of Representatives with strong bipartisan numbers. Right now, the bill is stuck in the legislative transition phase as it moves over to the Iowa Senate for review, meaning it must clear Senate committees before becoming a binding state law.
-*   **Systemic Friction:** The main point of friction is a data mix-up between government offices. The legislative text clearly demands a 15-day medication supply, but the fiscal analysts based all their cost sheets on a 30-day supply, causing minor confusion about the bill's true financial impact.
+*  **Operational Logjams:** House File 385 successfully passed the Iowa House of Representatives with a unanimous 89-0 bipartisan vote. It transitioned to the Iowa Senate, where it was recommended for passage by the Senate Health and Human Services Committee and subsequently placed on the Senate's **Unfinished Business Calendar**. It requires a floor call to become binding state law.
+*  **Procedural Inertia:** The point of friction is no longer a data mix-up but rather legislative timing. Because the financial impact models have been successfully updated to match the 15-day statutory language, the primary hurdle is securing floor priority before the conclusion of the current legislative cycle.
+
 
 ---
 
