@@ -3,7 +3,7 @@
 # Public Record Review: Community Impact Analysis
 
 ## Summary of Findings
-*   **Systemic Factors:** Requiring structured discharge plans prevents patients from being abruptly released without support. When a psychiatric hospital coordinates with local care networks, it creates a safer environment where vulnerable individuals can stabilize safely in their own homes.
+*   **Systemic Factors:** Requiring structured discharge plans prevents patients from being abruptly released without support. When a mental health institute coordinates with local care networks, it creates a safer environment where vulnerable individuals can stabilize safely in their own homes.
 *   **Economic Solidarity:** Ensuring patients receive an immediate supply of medication keeps individuals from experiencing swift health declines. This stability protects family resources, lowers the burden on local emergency responders, and strengthens informal community support networks.
 
 ---
