@@ -4,7 +4,7 @@
 
 ## Public Record Review
 
-This section includes independent investigations of the public record. Each analysis seeks to ensure objectivity and prevent data errors. Links are provided for full details, and information may update due to ongoing developments.
+This section includes independent investigations of the public record on Iowa House File 385 (HF 385). Each analysis seeks to ensure objectivity and prevent data errors. Links are provided for full details, and information may update due to ongoing developments.
 
 *   **[Community Impact Analysis](public-record/community-impact.md):**
     This section looks at mental health institutes (MHIs) and Administrative Services Organizations (ASOs), their rules for discharging a person commited by court order, and how they affect daily life for families and communities. It uses systems theory to trace how stable re-entry into the community keeps individuals safe and supported.
@@ -25,10 +25,10 @@ Based on the information generated from the public record review, strategic opti
     *   *Option B (Law):* Standardize the state legal code to mandate that all MHIs must supply a 15-day medication supply and arrange immediate care coordination upon discharge.
     *   *Option C (Public Campaign):* Build a public awareness campaign to pressure MHIs to voluntarily change their discharge rules.
 *   **Apply Criteria:**
-    *   *Political Feasibility:* Option B has high feasibility because the underlying legislation already won overwhelming, bipartisan support and passed the Iowa House.
+    *   *Political Feasibility:* Option B has high feasibility because the underlying legislation already won overwhelming, bipartisan support and passed the Iowa House (HF 385).
     *   *Fiscal Cost:* The Legislative Services Agency fiscal note clarifies that the exact financial impact cannot be determined because the total cost, quantity, and specific types of medications prescribed are unknown.
     *   *Equity:* Option B applies equally across the state, ensuring that geography or personal wealth does not dictate whether a person gets lifesaving transition medication.
-*   **The Outcome:** Option B is our primary recommendation. Mandating clear statutory standards ensures permanent protection and identical care baselines across the state while managing financial strain on taxpayers.
+*   **The Outcome:** Option B (HF 385) is our primary recommendation. Mandating clear statutory standards ensures permanent protection and identical care baselines across the state while managing financial strain on taxpayers.
 
 ---
 
@@ -37,7 +37,7 @@ Based on the information generated from the public record review, strategic opti
 This brief provides actionable, mobile-friendly tools to help community members interact directly with key leverage points.
 
 *   **[Tactical Map](advocacy/tactical-map.md):**
-    A summary of where the system is stuck right now. It outlines the current operational status of House File 385 as it transitions through the legislative lifecycle.
+    A summary of where the system is stuck right now. It outlines the current operational status of HF 385 as it transitions through the legislative lifecycle.
 *   **[Community Leverage Points](advocacy/leverage-points.md):**
     A summary of who has the leverage to unblock it. This page points to the specific state legislators and committee leaders who have the power to advance these discharge protections.
 *   **[Action Scripts](advocacy/action-scripts.md):**
