@@ -16,7 +16,7 @@ This page provides plain-spoken, nonpartisan communication frameworks for talkin
 ---
 
 ## Targeted Message Outlines
-*   **Message for Committee Chairs:** "As a constituent, I am asking you to bring House File 385 up for a hearing in the Senate Health and Human Services Committee. This bill passed the House with immense bipartisan support because it protects vulnerable citizens by ensuring a 15-day medication supply and clear care coordination upon hospital discharge. It is a fiscally responsible step that keeps our communities safe and stable."
+*   **Message for Committee Chairs:** "As a constituent, I am asking you to bring House File 385 off the Unfinished Business Calendar for a full Senate vote. This bill passed the House unanimously because it protects vulnerable citizens by ensuring a 15-day medication supply and immediate care coordination upon hospital discharge. With an updated fiscal note showing a highly manageable state cost of $211,000 to $286,000, it is a fiscally responsible step that keeps our communities safe and stable.
 *   **Message for Local Administrators:** "Please consider voicing support for the discharge standards in House File 385. Ensuring that patients leave psychiatric facilities with a 15-day medication supply and a direct referral to regional Administrative Services Organizations reduces re-admission rates and helps local care systems function smoothly."
 
 ---
