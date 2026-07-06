@@ -9,14 +9,14 @@ This page provides plain-spoken, nonpartisan communication frameworks for talkin
 
 ## Community Engagement Script (Deep Canvassing Model)
 *   **The Opening:** "Hi, my name is [Your Name] and I am a resident here in our community. I am visiting with neighbors today to talk about how we can support a nonpartisan solution to help neighbors returning home from psychiatric hospitalizations."
-*   **The Story Share:** "When individuals leave a mental health facility without immediate access to their prescribed medications, they face massive health hurdles. Many families struggle to fill prescriptions immediately, leading to unnecessary crises that could easily be avoided with basic care coordination."
+*   **The Story Share:** "When individuals leave a mental health facility without immediate access to their prescribed medications and aftercare, they face massive health hurdles. Many households struggle to fill prescriptions immediately and access resources, leading to unnecessary crises that could easily be avoided with basic care coordination."
 *   **The Bridge:** "A lot of people I talk to feel that our current system is stuck because House File 385 passed the House but is currently sitting waiting for action in the Iowa Senate. We have a real opportunity to change things if we contact the leaders on the Senate Health and Human Services Committee."
 *   **The Action Call:** "Would you be willing to take two minutes right now to send a quick email to the Senate Committee leadership, asking them to place House File 385 on the calendar for a vote?"
 
 ---
 
 ## Targeted Message Outlines
-*   **Message for Committee Chairs:** "As a constituent, I am asking you to bring House File 385 off the Unfinished Business Calendar for a full Senate vote. This bill passed the House unanimously because it protects vulnerable citizens by ensuring a 15-day medication supply and immediate care coordination upon hospital discharge. With an updated fiscal note showing a manageable state cost, it is a fiscally responsible step that keeps our communities safe and stable.
+*   **Message for Committee Chairs:** "As a constituent, I am asking you to bring House File 385 off the Unfinished Business Calendar for a full Senate vote. This bill passed the House unanimously because it protects vulnerable citizens by ensuring a 15-day medication supply and immediate care coordination upon discharge from a mental health institute. With an updated fiscal note showing a manageable state cost, it is a fiscally responsible step that keeps our communities safe and stable.
 *   **Message for Local Administrators:** "Please consider voicing support for the discharge standards in House File 385. Ensuring that patients leave psychiatric facilities with a 15-day medication supply and a direct referral to regional Administrative Services Organizations reduces re-admission rates and helps local care systems function smoothly."
 
 ---
