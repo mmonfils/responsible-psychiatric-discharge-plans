@@ -4,7 +4,7 @@
 
 ## Public Record Review
 
-This section includes independent investigations of the public record on Iowa House File 385 (HF 385). Each analysis seeks to ensure objectivity and prevent data errors. Links are provided for full details, and information may update due to ongoing developments.
+This section is an independent investigation of the public record on Iowa House File 385 (HF 385). Links are provided for full details, and information may update with ongoing developments.
 
 *   **[Community Impact Analysis](public-record/community-impact.md):**
     This section looks at mental health institutes (MHIs) and Administrative Services Organizations (ASOs), their rules for discharging a person committed by court order, and how they affect daily life for families and communities. It uses systems theory to trace how stable re-entry into the community keeps individuals safe and supported.
