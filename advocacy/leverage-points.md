@@ -11,7 +11,7 @@
 ## Additional Details
 A focused analysis suggests that this public policy would not be stalled by healthcare administration, because it is a state-level mandate. Instead, formal authority rests completely with state politicians. 
 
-The most effective pathway for influence is outreach to the Senate committee chair and vice-chair. Because this policy passed the House with overwhelming support, it carries strong democratic legitimacy. Advocates can leverage this by showing lawmakers that voting for this bill reduces emergency response costs in their local home districts. Pointing out the prudent estimates of the fiscal note can also address hesitations on state expenses.
+The most effective pathway for influence is outreach to the Senate committee chair and vice-chair. Because this policy passed the House with overwhelming support, it carries strong democratic legitimacy. Advocates can leverage this by showing lawmakers that voting for this bill reduces emergency response costs in their local home districts. Pointing out the prudent estimates of the fiscal note can also address concerns with state expenses.
 
 ---
 
