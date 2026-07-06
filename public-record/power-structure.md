@@ -3,7 +3,7 @@
 # Public Record Review: Power Structure and Statutory Mapping
 
 ## Summary of Findings
-*   **Statutory Authority:** The legal authority to optimize the psychiatric discharge rules rests fully with the state government under Iowa law. State statutes govern the operating licenses and patient rights inside all hospitals and mental health centers operating within Iowa borders.
+*   **Statutory Authority:** The legal authority to optimize the psychiatric discharge rules rests with the state government under Iowa law. State statutes govern the operating licenses and patient rights inside all hospitals and mental health centers operating within Iowa borders.
 *   **Decision-Making Bodies:** The primary decision-making bodies controlling this policy are the Iowa House of Representatives and the Iowa Senate. Within those chambers, the HHS Committee holds the initial power to clear, amend, or block the legislation before it can receive a vote from the full body.
 
 ---
