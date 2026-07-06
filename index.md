@@ -7,7 +7,7 @@
 This section is an independent investigation of the public record on Iowa House File 385 (HF 385). Links are provided for full details, and information may update with ongoing developments.
 
 *   **[Community Impact Analysis](public-record/community-impact.md):**
-    This section looks at mental health institutes (MHIs) and Administrative Services Organizations (ASOs), their rules for discharging a person committed by court order, and how they affect daily life for families and communities. It uses systems theory to trace how stable re-entry into the community keeps individuals safe and supported.
+    This section looks at mental health institutes (MHIs) and Administrative Services Organizations (ASOs), discharge plans for a person committed by court order, and how they affect daily life for families and communities. It uses systems theory to trace how stable re-entry into the community keeps individuals safe and supported.
 *   **[Power Structure and Statutory Mapping](public-record/power-structure.md):**
     This page tracks the law through the government system. It shows that the Iowa Legislature holds the primary legal authority over this policy, specifically moving through the House Health and Human Services (HHS) Committee.
 *   **[Fiscal and Economic Cost Review](public-record/fiscal-review.md):**
